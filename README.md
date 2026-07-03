@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SIHAM BOUZAGRAR  
+# Hi there, I'm Siham Bouzagrar 👋  
 🎯 GIS & Data Science Student | Data Enthusiast | Future ML Engineer  
 
 ---
