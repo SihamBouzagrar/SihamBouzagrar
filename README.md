@@ -14,14 +14,11 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://github.com/YOUR_USERNAME](https://github.com/SihamBouzagrar/Portfolio))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/siham-bouzagrar-262711251)
 [![Email](https://img.shields.io/badge/Email-sihambouzagrar%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sihambouzagrar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SihamBouzagrar)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7c3aed&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=6d28d9&label=Followers)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=4c1d95&label=Stars)
 
 </div>
 
@@ -94,7 +91,7 @@ On the engineering side, I build full-stack web applications with **Spring Boot*
 | Domain | Proficiency | Details |
 |---|---|---|
 | Machine Learning | ⭐⭐⭐⭐ | Classification pipelines with Scikit-learn (e.g. intrusion detection) |
-| Deep Learning | ⭐⭐⭐ | TensorFlow / PyTorch fundamentals |
+| Deep Learning | ⭐⭐ | TensorFlow / PyTorch fundamentals |
 | Computer Vision | ⭐⭐⭐ | Real-time object detection with YOLOv8 + OpenCV |
 | Data Analysis | ⭐⭐⭐⭐ | Large-scale exploratory analysis with Pandas & Matplotlib |
 | Model Deployment | ⭐⭐⭐ | Interactive ML interfaces with Streamlit |
@@ -196,95 +193,10 @@ Built and evaluated a real-time detection pipeline, with post-processing and met
 `AutoCAD` `QGIS` `ArcGIS Pro` `Spatial Data Modeling` `Metadata Management`
 
 ---
-
-## 🎓 Education
-
-| Institution | Program | Years |
-|---|---|---|
-| École Hassania des Travaux Publics (EHTP), Casablanca | Engineering Cycle | 2024 – Present |
-| Lycée Reda Slaoui, Agadir | CPGE — PCSI / PSI | 2022 – 2024 |
-| Lycée Ajdir, Agadir | Baccalauréat, Physical Sciences (French option) | 2019 – 2022 |
-
----
-
-## 🌐 Languages
-
-![French](https://img.shields.io/badge/French-B2-4c1d95?style=flat-square)
-![English](https://img.shields.io/badge/English-B1-6d28d9?style=flat-square)
-![Arabic](https://img.shields.io/badge/Arabic-Native-7c3aed?style=flat-square)
-
----
-
-## 🤝 Extracurricular Activities
-
-- **Logistics Manager** — EHTP HITC
-- **Sponsorship & Logistics Manager** — Enactus Club
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&title_color=A78BFA&icon_color=7C3AED&text_color=C9C9C9&bg_color=0d1117&border_color=4c1d95&hide_border=false" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false&background=0d1117&stroke=4c1d95&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=C9C9C9&bg_color=0d1117&border_color=4c1d95&hide_border=false" width="60%"/>
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15&row=1&column=6" width="100%"/>
-</div>
-
-## 📊 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-*(Snake animation requires a one-time GitHub Actions workflow — happy to help set that up if you'd like.)*
-
----
-
 ## 🎯 Current Focus
 
-```yaml
-Learning:
-  - Advanced Machine Learning & Deep Learning
-  - Cloud-native deployment patterns
-
-Building:
-  - Full-stack applications with clean REST architectures
-  - GIS-integrated data pipelines
-
-Exploring:
-  - Spatial Data Science at scale
-  - MLOps and model deployment practices
-
-Open To:
-  - PFA Internship (2 months, starting July 2026)
-  - GIS x Data Science collaborations
-```
-
 ---
 
-## 📬 Connect With Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-sihambouzagrar%40gmail.com-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sihambouzagrar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/YOUR_USERNAME)
-
----
 
 <div align="center">
 
